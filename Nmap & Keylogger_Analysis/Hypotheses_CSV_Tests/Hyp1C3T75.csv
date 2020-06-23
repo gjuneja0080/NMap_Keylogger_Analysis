@@ -1,0 +1,8 @@
+,Victim's Key ,Victim's Key Interaction Time,Attacker's Key,Attacker's Key Interaction Time,Threshold Val,Tolerance+,Tolerance-,Within Threshold
+0, 'D',253.0, 'D',74.0,189.75,442.75,63.25,True
+1, 'o',60.0, 'o',272.0,45.0,105.0,15.0,False
+2, 'g',301.0, 'g',36.0,225.75,526.75,75.25,False
+3, 'F',292.0, 'F',364.0,219.0,511.0,73.0,True
+4, 'i',59.0, 'i',44.0,44.25,103.25,14.75,True
+5, 'r',288.0, 'r',293.0,216.0,504.0,72.0,True
+6, 'e',285.0, 'e',69.0,213.75,498.75,71.25,False
